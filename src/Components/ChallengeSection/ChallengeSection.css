@@ -1,0 +1,12 @@
+.challeng-wrapper {
+    font-family: 'Bangers', cursive;
+    background-color: black;
+    flex-direction: column;
+    align-items: center;
+    display: flex;
+}
+
+.challeng-header {
+    color: white;
+    font-size: 45px;
+}

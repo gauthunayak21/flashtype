@@ -1,0 +1,12 @@
+.try-again-wrapper{
+    font-family: 'Poppins', sans-serif;
+    text-align: center;
+}
+
+.tryAgainButton {
+    background-color: grey;
+    color: white;
+    border: 1px solid grey;
+    padding: 10px;
+    
+}

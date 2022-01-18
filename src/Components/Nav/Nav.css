@@ -1,0 +1,15 @@
+.navbar{
+    background-color: #2d2d2d;
+    font-family: 'Bangers', cursive;
+    display: flex;
+    padding: 10px;
+    align-items: center;
+}
+.logo {
+    width: 50px;
+}
+
+.logo-name{
+    color: white;
+    letter-spacing: 4px;
+}

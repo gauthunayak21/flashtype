@@ -1,0 +1,5 @@
+.challenge-details-wrapper {
+    display: flex;
+    justify-content: space-between;
+    width: inherit;
+}

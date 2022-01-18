@@ -1,0 +1,15 @@
+.test-letter {
+    font-size: 16px;
+}
+
+.test-correct {
+    color: #558b2f;
+}
+
+.test-incorrect {
+    color: #bf360c;
+}
+
+.test-notAttempted {
+    color: #f9a825;
+}

@@ -1,0 +1,23 @@
+.wrapper {
+    background-color: black;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 80px 40px;
+}
+.wrapper-text {
+    font-family: 'Bangers', cursive;
+    color: white;
+    font-size: 30px;
+}
+.landing-name {
+    margin: 0;
+    letter-spacing: 4px;
+}
+.Typewriter__wrapper {
+    font-size: 30px;
+}
+
+.image-wrapper {
+    width: 400px;
+}

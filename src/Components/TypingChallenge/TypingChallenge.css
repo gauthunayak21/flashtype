@@ -1,0 +1,41 @@
+.timer-wrapper{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-family: 'Poppins', sans-serif;
+}
+
+.timer{
+    font-size: 46px;
+    margin: 0;
+}
+
+.timerText {
+    margin: 0;
+}
+
+.text-area { 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.textarea-right {
+    width: 40%;
+    /* height: 50vh; */
+}
+
+.textarea-left{
+    width: 40%;
+    height: 50vh;
+    border: 1px solid grey;
+    font-family: monospace;
+    padding: 10px;
+}
+
+.textarea {
+    width: 100%;
+    height: 50vh;
+    padding: 10px;
+}
